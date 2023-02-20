@@ -1,0 +1,18 @@
+@font-face {
+    font-family: varela;
+    src: url(VarelaRound-Regular.ttf);
+}
+
+html {
+    font-family: varela;
+}
+
+.btn {
+    background-color: #329E9D;
+    color: #FFFFFF;
+}
+
+.imgb {
+    border: 1px solid lightgray;
+    border-radius: 25% 10%;
+}
